@@ -1,0 +1,3 @@
+[build]
+command = "streamlit run app.py"
+publish = "path/to/your/app"
